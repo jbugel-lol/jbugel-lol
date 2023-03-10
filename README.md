@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbugel-lol&label=Profile%20views&color=0e75b6&style=flat" alt="jbugel-lol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbugel-lol" alt="jbugel-lol" /></a> </p>
+<img src"https://discord.c99.nl/widget/theme-1/858431740242952203.png" />
 
 - I learn **JS**
 
