@@ -6,7 +6,12 @@
 
 - I learn **JS**
 
-<h3 align="left">Check out my recent projects!</h3>
+<h3 align="left">Check out my recent projects!
+<li>
+  https://github.com/jbugel-lol/linkShortner - Custom Linkshortener for https://jbugel.link (Release soon)
+  https://github.com/jbugel-lol/jbugel.xyz-focus - Focus on your Task with ease
+</li>
+</h3>
 <p align="left">
 <img src"https://discord.c99.nl/widget/theme-1/858431740242952203.png" />
 </p>
