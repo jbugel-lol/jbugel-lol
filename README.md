@@ -6,7 +6,7 @@
 
 - I learn **JS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check out my recent projects!</h3>
 <p align="left">
 <img src"https://discord.c99.nl/widget/theme-1/858431740242952203.png" />
 </p>
