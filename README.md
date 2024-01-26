@@ -8,7 +8,7 @@
 
 <h3 align="left">Check out my recent projects!
 <li>
-  https://github.com/jbugel-lol/linkShortner - Custom Linkshortener for https://jbugel.link (Release soon)
+  https://github.com/jbugel-lol/linkShortner - Custom Linkshortener for https://jbugel.link
   https://github.com/jbugel-lol/jbugel.xyz-focus - Focus on your Task with ease
 </li>
 </h3>
